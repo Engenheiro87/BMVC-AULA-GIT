@@ -20,7 +20,7 @@ def helper(info= None):
 
 
 #-----------------------------------------------------------------------------
-# Suas rotas estarão aqui:
+# Suas rotas aqui:
 
 
 
