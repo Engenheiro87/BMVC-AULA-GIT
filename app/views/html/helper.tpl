@@ -17,7 +17,7 @@
       <h4>Estrutura desenvolvida para oferecer suporte ao desenvolvimento FullStack da disciplina de Orientação a Objetos.</h4>
       <img src="{{'static/img/BottleLogo.png'}}" alt="Descrição da Imagem"
           width="300" height="300" onclick="displayText()">
-      <h4>H.G.M.</h4>
+      <h4>Autor: H.G.M.</h4>
     </div>
 
     <div class="object_centered">
