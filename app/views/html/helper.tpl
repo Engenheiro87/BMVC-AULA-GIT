@@ -5,7 +5,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>.::Bem-vindo à aula de GIT::.</title>
+    <title>.::Bem-vindo à aula de GIT em OO::.</title>
     <link rel="stylesheet" type="text/css" href="static/css/helper.css">
     <script src="../../static/js/helper.js"></script>
 </head>
