@@ -18,6 +18,9 @@ def serve_static(filepath):
 def helper(info= None):
     return ctl.render('helper')
 
+@app.route('/about_us')
+def helper(info= None):
+    return ctl.render('about_us')
 
 #-----------------------------------------------------------------------------
 # Suas rotas aqui:
