@@ -14,7 +14,7 @@ ctl = Application()
 def serve_static(filepath):
     return static_file(filepath, root='./app/static')
 
-@app.route('/helper')
+@app.route('/home')
 def helper(info= None):
     return ctl.render('helper')
 
